@@ -24,7 +24,7 @@
 
 
 #calculadora{
-    background: white;
+    background:#65d3e9;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
     width: 50%;
     height: 100%;
@@ -32,12 +32,12 @@
 }
 
 #detalle{
-    background: #FF416C;
+    background: #4141ff;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
     width: 50%;
     height: 100%;
     float: left;
-    color: #f6f5f7;
+    color: #65e972;
 }
 
 .contenido{
@@ -61,8 +61,8 @@ button {
 	font-weight: bold;
 	padding: 12px 45px;
 	border-radius: 30px;
-	background-color: #FF416C;
-	border: 1px solid #FF416C;
+	background-color: #4141ff;
+	border: 1px solid #4141ff;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 1px;
